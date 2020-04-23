@@ -8,4 +8,3 @@ RUN apt-get update && apt-get install -y libz-dev libhdf5-serial-dev
 COPY install.R .
 
 RUN Rscript install.R
-e
