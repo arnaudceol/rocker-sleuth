@@ -1,4 +1,4 @@
-FROM rocker/rstudio
+FROM rocker/rstudio:3.6.3
 # Based on the rocker image https://github.com/rocker-org/rocker
 
 MAINTAINER "Arnaud ceol" arnaud.ceol.pro@gmail.com
